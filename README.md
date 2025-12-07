@@ -12,7 +12,7 @@ In a country facing economic volatility, understanding the difference between **
 
 ## 🚀 Live Demo
 Check out the live application here:  
-👉 **[Click to Open Dashboard]((https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/))**
+👉 [Click to Open Dashboard]((https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/))
 
 ---
 
@@ -91,18 +91,7 @@ MandiMetrics/
 
 ## 👨‍💻 Author
 
-**Hottam Ud Din** *Aspiring Data Scientist | Final Year BS Data Science Student*
+**Hottam Ud Din** *Aspiring Data Scientist*
 
-[LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL) | [GitHub](https://www.google.com/search?q=YOUR_GITHUB_URL)
 
-```
-
-### 🔔 Important Final Step:
-Don't forget to **replace the placeholder links** (the parts that say `REPLACE_WITH_YOUR_...`) with your actual:
-1.  Streamlit App URL.
-2.  GitHub Profile URL.
-3.  LinkedIn Profile URL.
-
-This README is now fully documented and ready for professional review!
-```
 
