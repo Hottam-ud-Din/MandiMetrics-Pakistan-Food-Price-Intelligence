@@ -1,15 +1,4 @@
-This is the final polish for your repository. A detailed `README.md` is what separates a "student project" from a "professional portfolio entry."
-
-I have expanded the sections to include **Methodology**, **Project Structure**, and a clear **Live Demo** button.
-
-### 📄 Copy this into your `README.md` file
-
-````markdown
 # 🌾 MandiMetrics: Pakistan Food Price Intelligence
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](REPLACE_WITH_YOUR_STREAMLIT_LINK_HERE)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Live-success)
 
 **Project by:** Hottam Ud Din  
 **Data Source:** [World Food Programme (WFP)](https://data.humdata.org/dataset/wfp-food-prices-for-pakistan)
@@ -23,7 +12,7 @@ In a country facing economic volatility, understanding the difference between **
 
 ## 🚀 Live Demo
 Check out the live application here:  
-👉 **[Click to Open Dashboard](REPLACE_WITH_YOUR_STREAMLIT_LINK_HERE)**
+👉 **[Click to Open Dashboard]((https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/))**
 
 ---
 
@@ -116,3 +105,4 @@ Don't forget to **replace the placeholder links** (the parts that say `REPLACE_W
 
 This README is now fully documented and ready for professional review!
 ```
+
