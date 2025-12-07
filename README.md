@@ -12,7 +12,7 @@ In a country facing economic volatility, understanding the difference between **
 
 ## 🚀 Live Demo
 Check out the live application here:  
-👉 [Click to Open Dashboard]((https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/))
+👉 [Click to Open Dashboard](https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/)
 
 ---
 
@@ -91,7 +91,8 @@ MandiMetrics/
 
 ## 👨‍💻 Author
 
-**Hottam Ud Din** *Aspiring Data Scientist*
+**Hottam Ud Din** *(Aspiring Data Scientist)*
+
 
 
 
