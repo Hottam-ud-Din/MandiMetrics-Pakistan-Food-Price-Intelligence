@@ -2,7 +2,7 @@
 
 **Project by:** Hottam Ud Din  
 **Status:** ✅ Completed  
-**Live Dashboard:** [Link to your Streamlit App will go here]
+**Live Dashboard:** [[Link to your Streamlit App will go here]](https://mandimetrics-pakistan-food-price-intelligence-gzrtr4ywqzendcft.streamlit.app/)
 
 ## 📌 Project Overview
 **MandiMetrics** is a Data Science and ML project designed to analyze, visualize, and forecast food prices in Pakistan. Using historical data from **2004 to 2025**, this tool helps identify:
@@ -25,4 +25,5 @@
 ## 🚀 How to Run Locally
 1. **Clone the repository:**
    ```bash
+
    git clone [https://github.com/YourUsername/MandiMetrics.git](https://github.com/YourUsername/MandiMetrics.git)
