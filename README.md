@@ -1,7 +1,7 @@
 # 🌾 MandiMetrics: Pakistan Food Price Intelligence
 
 **Project by:** Hottam Ud Din  
-**Data Source:** [World Food Programme (WFP)](https://data.humdata.org/dataset/wfp-food-prices-for-pakistan)
+**Data Source:** [The Humanitarian Data Exchange (WFP-Food-Prices-Pakistan)](https://data.humdata.org/dataset/wfp-food-prices-for-pakistan)
 
 ---
 
@@ -53,7 +53,6 @@ MandiMetrics/
   * **Streamlit:** Frontend framework for the interactive web app.
   * **Plotly:** Interactive visualization engine (Maps, Line Charts).
   * **Facebook Prophet:** Time-series forecasting library.
-  * **IPyWidgets:** Interactive components for the notebook analysis.
 
 -----
 
@@ -92,6 +91,7 @@ MandiMetrics/
 ## 👨‍💻 Author
 
 **Hottam Ud Din** *(Aspiring Data Scientist)*
+
 
 
 
